@@ -1,0 +1,11 @@
+body {
+   background-image: url("fondo.gif");
+   margin: 50px;
+}
+
+#box {
+  font-size: 110%;
+  background-color: #cccccc;
+  padding: 30px;
+  
+} 
